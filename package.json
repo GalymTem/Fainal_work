@@ -1,0 +1,12 @@
+{
+  "name": "assignment4-main",
+  "version": "1.0.0",
+  "description": "Authors: Arsen Muzhikov, Anuar Shugay, Temirlan Galymtaev",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
